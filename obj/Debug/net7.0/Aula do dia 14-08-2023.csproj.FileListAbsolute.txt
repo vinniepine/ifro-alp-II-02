@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.exe
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.deps.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\refint\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - Aula do dia 14-08-2023\obj\Debug\net7.0\ref\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.exe
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.deps.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\bin\Debug\net7.0\Aula do dia 14-08-2023.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\refint\Aula do dia 14-08-2023.dll
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.pdb
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\Aula do dia 14-08-2023.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS - IFRO\2º Período\1 - Algoritmo e Lógica de Programação II\ALP II - 02. Aula do dia 14-08-2023\obj\Debug\net7.0\ref\Aula do dia 14-08-2023.dll
